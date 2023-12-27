@@ -25,7 +25,7 @@
       </big></div>
       <big> </big>
       <div style="text-align: center;"><big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Ноутбуки </big><br>
+Laptops </big><br>
       </div>
       <big> </big><br>
       </td>
@@ -37,8 +37,9 @@
  style="border: 0px solid ; width: 512px; height: 303px;"
  src="photo_8_2023-12-27_20-26-10.jpg" alt=""></a><br>
       </big></div>
-      <div style="text-align: center;"><big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Составляющие для ПК<br>
+      <div style="text-align: center;"><big><span
+ style="font-family: Arial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+PC components</span><br>
       </big></div>
       </td>
       <td
@@ -49,7 +50,7 @@
  style="border: 0px solid ; width: 342px; height: 302px;"
  src="photo_6_2023-12-27_20-26-10.jpg" alt=""></a></big></div>
       <big> </big>
-      <div style="text-align: center;"><big>Телефоны<br>
+      <div style="text-align: center;"><big>Phones<br>
       </big></div>
       <big> </big></td>
     </tr>
